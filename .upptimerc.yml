@@ -12,7 +12,8 @@ assignees: # Users to assign downtime issues (optional)
   
 status-website:
   baseUrl: /upptime-lessonpal
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://lessonpal.com/static/media/logo.3e560617.svg
+  name: Lessonpal
   navbar:
     - title: Status
       href: /
