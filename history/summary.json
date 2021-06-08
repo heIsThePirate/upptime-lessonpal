@@ -4,18 +4,19 @@
     "url": "https://lessonpal.com",
     "icon": "https://favicons.githubusercontent.com/lessonpal.com",
     "slug": "lessonpal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 244,
-    "timeDay": 307,
-    "timeWeek": 254,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "time": 237,
+    "timeDay": 208,
+    "timeWeek": 236,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
+      "2021-06-08": 0,
       "2021-05-28": 27
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://staging.lessonpal.com",
     "icon": "https://favicons.githubusercontent.com/staging.lessonpal.com",
     "slug": "stagin-env",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2768,
-    "timeDay": 4940,
-    "timeWeek": 4991,
-    "timeMonth": 2768,
-    "timeYear": 2768,
-    "dailyMinutesDown": {}
+    "time": 2611,
+    "timeDay": 2524,
+    "timeWeek": 4381,
+    "timeMonth": 2611,
+    "timeYear": 2611,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
