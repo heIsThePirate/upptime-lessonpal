@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lessonpal.com.ico",
     "slug": "lessonpal",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -27,18 +27,19 @@
     "url": "https://staging.lessonpal.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.lessonpal.com.ico",
     "slug": "stagin-env",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.10%",
-    "uptimeMonth": "96.99%",
-    "uptimeYear": "98.58%",
-    "time": 2536,
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "98.60%",
+    "time": 2539,
     "timeDay": 203,
-    "timeWeek": 2162,
-    "timeMonth": 3920,
+    "timeWeek": 2228,
+    "timeMonth": 3795,
     "timeYear": 2947,
     "dailyMinutesDown": {
+      "2023-08-18": 0,
       "2023-08-15": 90,
       "2023-08-10": 44,
       "2023-08-08": 16,
@@ -107,7 +108,7 @@
       "2023-05-07": 103,
       "2023-05-06": 18,
       "2023-05-05": 1370,
-      "2023-05-04": 84
+      "2023-05-04": 18
     }
   }
 ]
