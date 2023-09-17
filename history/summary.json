@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 628,
-    "timeDay": 179,
-    "timeWeek": 1966,
-    "timeMonth": 1834,
+    "timeDay": 489,
+    "timeWeek": 2006,
+    "timeMonth": 1843,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2023-06-27": 18,
@@ -29,17 +29,16 @@
     "slug": "stagin-env",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "98.92%",
-    "time": 2992,
-    "timeDay": 3456,
-    "timeWeek": 3979,
-    "timeMonth": 4560,
-    "timeYear": 3257,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "98.91%",
+    "time": 2991,
+    "timeDay": 3480,
+    "timeWeek": 3981,
+    "timeMonth": 4561,
+    "timeYear": 3258,
     "dailyMinutesDown": {
-      "2023-09-16": 8,
       "2023-09-14": 29,
       "2023-09-13": 17,
       "2023-09-12": 36,
@@ -105,7 +104,8 @@
       "2023-06-18": 80,
       "2023-06-16": 137,
       "2023-06-15": 139,
-      "2023-06-14": 132
+      "2023-06-14": 132,
+      "2023-06-09": 41
     }
   }
 ]
