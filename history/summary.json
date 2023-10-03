@@ -4,18 +4,19 @@
     "url": "https://lessonpal.com",
     "icon": "https://icons.duckduckgo.com/ip3/lessonpal.com.ico",
     "slug": "lessonpal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 716,
+    "time": 715,
     "timeDay": 247,
     "timeWeek": 2561,
     "timeMonth": 2002,
     "timeYear": 813,
     "dailyMinutesDown": {
+      "2023-10-03": 0,
       "2023-09-27": 18,
       "2023-06-27": 18,
       "2023-04-19": 16,
@@ -30,9 +31,9 @@
     "slug": "stagin-env",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.05%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "99.01%",
     "time": 3076,
     "timeDay": 8139,
@@ -40,7 +41,7 @@
     "timeMonth": 4825,
     "timeYear": 3361,
     "dailyMinutesDown": {
-      "2023-10-03": 41,
+      "2023-10-03": 28,
       "2023-10-02": 37,
       "2023-10-01": 62,
       "2023-09-25": 58,
@@ -107,7 +108,7 @@
       "2023-06-28": 76,
       "2023-06-25": 118,
       "2023-06-24": 31,
-      "2023-06-23": 37
+      "2023-06-23": 53
     }
   }
 ]
