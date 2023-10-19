@@ -30,7 +30,7 @@
     "slug": "stagin-env",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "98.81%",
     "uptimeWeek": "95.02%",
     "uptimeMonth": "96.98%",
     "uptimeYear": "99.19%",
@@ -40,7 +40,7 @@
     "timeMonth": 3738,
     "timeYear": 3427,
     "dailyMinutesDown": {
-      "2023-10-19": 0,
+      "2023-10-19": 1,
       "2023-10-18": 16,
       "2023-10-17": 156,
       "2023-10-16": 140,
