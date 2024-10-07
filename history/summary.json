@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lessonpal.com.ico",
     "slug": "lessonpal",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 752,
-    "timeDay": 190,
+    "timeDay": 239,
     "timeWeek": 237,
-    "timeMonth": 212,
+    "timeMonth": 214,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2024-04-15": 75
@@ -26,15 +26,15 @@
     "slug": "stagin-env",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "96.15%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.23%",
     "uptimeMonth": "98.41%",
     "uptimeYear": "99.33%",
-    "time": 4069,
-    "timeDay": 3576,
-    "timeWeek": 8106,
-    "timeMonth": 6887,
-    "timeYear": 3960,
+    "time": 3942,
+    "timeDay": 14271,
+    "timeWeek": 7993,
+    "timeMonth": 6824,
+    "timeYear": 3984,
     "dailyMinutesDown": {
       "2024-10-05": 74,
       "2024-10-02": 62,
@@ -70,8 +70,7 @@
       "2023-10-12": 93,
       "2023-10-11": 122,
       "2023-10-10": 110,
-      "2023-10-09": 103,
-      "2023-10-08": 66
+      "2023-10-09": 103
     }
   }
 ]
