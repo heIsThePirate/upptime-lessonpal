@@ -1,7 +1,7 @@
 url: https://staging.lessonpal.com
-status: down
-code: 502
-responseTime: 11034
-lastUpdated: 2024-11-04T01:07:58.301Z
+status: up
+code: 200
+responseTime: 29227
+lastUpdated: 2024-11-04T03:08:08.256Z
 startTime: 2021-05-28T19:33:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
