@@ -24,15 +24,15 @@
     "url": "https://staging.lessonpal.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.lessonpal.com.ico",
     "slug": "stagin-env",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "97.08%",
+    "uptimeDay": "98.00%",
     "uptimeWeek": "95.35%",
-    "uptimeMonth": "93.22%",
-    "uptimeYear": "99.43%",
-    "time": 5083,
-    "timeDay": 14594,
-    "timeWeek": 8575,
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.44%",
+    "time": 5089,
+    "timeDay": 13623,
+    "timeWeek": 8811,
     "timeMonth": 5757,
     "timeYear": 5358,
     "dailyMinutesDown": {
@@ -66,8 +66,7 @@
       "2024-10-27": 148,
       "2024-10-26": 114,
       "2024-10-25": 83,
-      "2024-10-24": 95,
-      "2024-10-23": 17
+      "2024-10-24": 95
     }
   }
 ]
