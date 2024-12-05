@@ -24,9 +24,9 @@
     "url": "https://staging.lessonpal.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.lessonpal.com.ico",
     "slug": "stagin-env",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "95.89%",
+    "uptimeDay": "95.88%",
     "uptimeWeek": "94.03%",
     "uptimeMonth": "94.51%",
     "uptimeYear": "99.40%",
@@ -71,7 +71,7 @@
       "2024-11-03": 34,
       "2024-11-02": 154,
       "2024-11-01": 175,
-      "2024-10-31": 58
+      "2024-10-31": 39
     }
   }
 ]
